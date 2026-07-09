@@ -1,0 +1,14 @@
+C:\Dotnet Practical\myFirstConsole\obj\Debug\net10.0\myFirstConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet Practical\myFirstConsole\obj\Debug\net10.0\myFirstConsole.AssemblyInfoInputs.cache
+C:\Dotnet Practical\myFirstConsole\obj\Debug\net10.0\myFirstConsole.AssemblyInfo.cs
+C:\Dotnet Practical\myFirstConsole\obj\Debug\net10.0\myFirstConsole.csproj.CoreCompileInputs.cache
+C:\Dotnet Practical\myFirstConsole\bin\Debug\net10.0\myFirstConsole.exe
+C:\Dotnet Practical\myFirstConsole\bin\Debug\net10.0\myFirstConsole.deps.json
+C:\Dotnet Practical\myFirstConsole\bin\Debug\net10.0\myFirstConsole.runtimeconfig.json
+C:\Dotnet Practical\myFirstConsole\bin\Debug\net10.0\myFirstConsole.dll
+C:\Dotnet Practical\myFirstConsole\bin\Debug\net10.0\myFirstConsole.pdb
+C:\Dotnet Practical\myFirstConsole\obj\Debug\net10.0\myFirstConsole.dll
+C:\Dotnet Practical\myFirstConsole\obj\Debug\net10.0\refint\myFirstConsole.dll
+C:\Dotnet Practical\myFirstConsole\obj\Debug\net10.0\myFirstConsole.pdb
+C:\Dotnet Practical\myFirstConsole\obj\Debug\net10.0\myFirstConsole.genruntimeconfig.cache
+C:\Dotnet Practical\myFirstConsole\obj\Debug\net10.0\ref\myFirstConsole.dll
