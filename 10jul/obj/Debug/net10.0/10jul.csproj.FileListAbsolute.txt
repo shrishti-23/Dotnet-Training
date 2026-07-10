@@ -1,0 +1,15 @@
+C:\Dotnet Practical\10jul\bin\Debug\net10.0\10jul.exe
+C:\Dotnet Practical\10jul\bin\Debug\net10.0\10jul.deps.json
+C:\Dotnet Practical\10jul\bin\Debug\net10.0\10jul.runtimeconfig.json
+C:\Dotnet Practical\10jul\bin\Debug\net10.0\10jul.dll
+C:\Dotnet Practical\10jul\bin\Debug\net10.0\10jul.pdb
+C:\Dotnet Practical\10jul\obj\Debug\net10.0\10jul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet Practical\10jul\obj\Debug\net10.0\10jul.AssemblyInfoInputs.cache
+C:\Dotnet Practical\10jul\obj\Debug\net10.0\10jul.AssemblyInfo.cs
+C:\Dotnet Practical\10jul\obj\Debug\net10.0\10jul.csproj.CoreCompileInputs.cache
+C:\Dotnet Practical\10jul\obj\Debug\net10.0\10jul.sourcelink.json
+C:\Dotnet Practical\10jul\obj\Debug\net10.0\10jul.dll
+C:\Dotnet Practical\10jul\obj\Debug\net10.0\refint\10jul.dll
+C:\Dotnet Practical\10jul\obj\Debug\net10.0\10jul.pdb
+C:\Dotnet Practical\10jul\obj\Debug\net10.0\10jul.genruntimeconfig.cache
+C:\Dotnet Practical\10jul\obj\Debug\net10.0\ref\10jul.dll
