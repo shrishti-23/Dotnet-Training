@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dotnet Practical\\21jul\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1583210-D19E-4BCB-964D-6E218CA3B4BF}|21jul.csproj|c:\\dotnet practical\\21jul\\views\\home\\scheduel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1583210-D19E-4BCB-964D-6E218CA3B4BF}|21jul.csproj|solutionrelative:views\\home\\scheduel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Scheduel.cshtml",
+              "DocumentMoniker": "C:\\Dotnet Practical\\21jul\\Views\\Home\\Scheduel.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Scheduel.cshtml",
+              "ToolTip": "C:\\Dotnet Practical\\21jul\\Views\\Home\\Scheduel.cshtml",
+              "RelativeToolTip": "Views\\Home\\Scheduel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-21T06:07:12.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

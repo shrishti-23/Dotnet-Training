@@ -1,0 +1,99 @@
+C:\Dotnet Practical\15 jul\bin\Debug\net10.0\appsettings.Development.json
+C:\Dotnet Practical\15 jul\bin\Debug\net10.0\appsettings.json
+C:\Dotnet Practical\15 jul\bin\Debug\net10.0\15 jul.staticwebassets.runtime.json
+C:\Dotnet Practical\15 jul\bin\Debug\net10.0\15 jul.staticwebassets.endpoints.json
+C:\Dotnet Practical\15 jul\bin\Debug\net10.0\15 jul.exe
+C:\Dotnet Practical\15 jul\bin\Debug\net10.0\15 jul.deps.json
+C:\Dotnet Practical\15 jul\bin\Debug\net10.0\15 jul.runtimeconfig.json
+C:\Dotnet Practical\15 jul\bin\Debug\net10.0\15 jul.dll
+C:\Dotnet Practical\15 jul\bin\Debug\net10.0\15 jul.pdb
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\15 jul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\15 jul.AssemblyInfoInputs.cache
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\15 jul.AssemblyInfo.cs
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\15 jul.csproj.CoreCompileInputs.cache
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\15 jul.MvcApplicationPartsAssemblyInfo.cache
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\15 jul.RazorAssemblyInfo.cache
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\15 jul.RazorAssemblyInfo.cs
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\15 jul.sourcelink.json
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\scopedcss\bundle\15 jul.styles.css
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\scopedcss\projectbundle\15 jul.bundle.scp.css
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\v3vs6qjkxw-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\a4rnhhpctl-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\ccyu3lcm2w-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\9nespbu2i9-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\tkyz6fido0-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\omyqu2pwx6-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\ryw6tdfera-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\jf4buu2ovb-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\8dliuq0vxr-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\t0699m4air-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\1kncx8mwos-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\cqinyteji7-{0}-ub07r2b239-ub07r2b239.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\2oso1p07vp-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\5ut6qkus6p-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\uq4yyqjo7b-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\kl2td4s8yf-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\mcswinkclh-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\jktd8p6q85-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\f7wrbmb9tr-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\4pvkwufg98-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\4452t5sqf1-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\1kdfg2n8px-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\f33myx3s7i-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\kvjiuh31u4-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\jf6e653qek-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\whs681zu9v-{0}-06098lyss8-06098lyss8.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\wklh4vdciu-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\gtffnvzxj9-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\vopfhlaf0j-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\wu02eev0tu-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\2c4fut5bvs-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\d6jbeik7dq-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\b8wm4p0b9s-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\jtdel0qjot-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\thocvn2jf2-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\qswm99s4jt-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\ctizm6a0f8-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\662x7msbyk-{0}-493y06b0oq-493y06b0oq.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\u971733e58-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\ocfcbcqx4m-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\ie0kc75w90-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\as31db7glb-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\sw5rlrylxq-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\hz1xpdlob7-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\2died21094-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\d4svft4mqf-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\s6tv8akmny-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\mju6dlrnrw-{0}-47otxtyo56-47otxtyo56.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\oa9x64mcg7-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\kh0ox5won5-{0}-356vix0kms-356vix0kms.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\5th5spw2d2-{0}-83jwlth58m-83jwlth58m.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\ql64ylr0hb-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\qxmb2sjstt-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\38pduv2k94-{0}-ag7o75518u-ag7o75518u.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\j9w7tvpnti-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\qg15bimu7l-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\41jkmu5z42-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\n95gqx58d9-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\m6q4z1noft-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\phgwai9i39-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\pjapv5ihep-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\gws9qp0fpn-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\x04xo8c0sl-{0}-pns109az1k-pns109az1k.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\compressed\lpzm3s4ibb-{0}-pns109az1k-pns109az1k.gz
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\staticwebassets.build.json
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\staticwebassets.development.json
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\swae.build.ex.cache
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\15 jul.dll
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\refint\15 jul.dll
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\15 jul.pdb
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\15 jul.genruntimeconfig.cache
+C:\Dotnet Practical\15 jul\obj\Debug\net10.0\ref\15 jul.dll

@@ -1,0 +1,15 @@
+C:\Dotnet Practical\9jul\obj\Debug\net10.0\9jul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet Practical\9jul\obj\Debug\net10.0\9jul.AssemblyInfoInputs.cache
+C:\Dotnet Practical\9jul\obj\Debug\net10.0\9jul.AssemblyInfo.cs
+C:\Dotnet Practical\9jul\obj\Debug\net10.0\9jul.csproj.CoreCompileInputs.cache
+C:\Dotnet Practical\9jul\obj\Debug\net10.0\9jul.sourcelink.json
+C:\Dotnet Practical\9jul\bin\Debug\net10.0\9jul.exe
+C:\Dotnet Practical\9jul\bin\Debug\net10.0\9jul.deps.json
+C:\Dotnet Practical\9jul\bin\Debug\net10.0\9jul.runtimeconfig.json
+C:\Dotnet Practical\9jul\bin\Debug\net10.0\9jul.dll
+C:\Dotnet Practical\9jul\bin\Debug\net10.0\9jul.pdb
+C:\Dotnet Practical\9jul\obj\Debug\net10.0\9jul.dll
+C:\Dotnet Practical\9jul\obj\Debug\net10.0\refint\9jul.dll
+C:\Dotnet Practical\9jul\obj\Debug\net10.0\9jul.pdb
+C:\Dotnet Practical\9jul\obj\Debug\net10.0\9jul.genruntimeconfig.cache
+C:\Dotnet Practical\9jul\obj\Debug\net10.0\ref\9jul.dll
